@@ -1,7 +1,3 @@
-language: java
-jdk:
-  - oraclejdk8
-
 script: 
 sudo apt-get install unzip
 wget -N http://chromedriver.storage.googleapis.com/2.9/chromedriver_linux64.zip -P ~/Downloads
