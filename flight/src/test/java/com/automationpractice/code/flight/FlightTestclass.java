@@ -37,7 +37,6 @@ public class FlightTestclass {
 	  properties=propertiesfile.getProperties();
 	  if (properties.getProperty("browser").equalsIgnoreCase("chrome")) {
 		if(System.getProperty("os.name").indexOf("nix")>=0||System.getProperty("os.name").indexOf("nux")>=0) {
-			System.setProperty("webdriver.chrome.driver", projPath+"/src/test/resources/chromedriver.exe");
 			driver=new ChromeDriver();
 		}
 		else {
