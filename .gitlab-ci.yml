@@ -1,3 +1,3 @@
 script: 
-  cd flight
-  mvn clean install  
+  - cd flight
+  - mvn clean install  
