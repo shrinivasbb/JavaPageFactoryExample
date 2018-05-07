@@ -22,7 +22,7 @@ public class StartPage {
   }
   
   public LoginPage NavigateTo(String url) {
-	driver.manage().window().maximize();
+	//driver.manage().window().maximize();
 	driver.get(url);
 	return PageFactory.initElements(driver, LoginPage.class);
   }
