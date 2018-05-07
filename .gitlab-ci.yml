@@ -1,4 +1,3 @@
-maven_build:
-  script: 
+script: 
   cd flight
   mvn clean install  
