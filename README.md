@@ -1,6 +1,6 @@
 # JavaPageFactoryExample
 
-<a href='https://semaphoreci.com/shrinivasb/JavaPageFactoryExample'> <img src='https://semaphoreci.com/api/v1/shrinivasb/JavaPageFactoryExample/branches/master/badge.svg' alt='Build Status'></a>
+<a href='https://semaphoreci.com/shrinivasb/javapagefactoryexample'> <img src='https://semaphoreci.com/api/v1/shrinivasb/javapagefactoryexample/branches/master/badge.svg' alt='Build Status'></a>
 
 This is a Java Selenium Page Factory Pattern project with maven and TestNG.
 
